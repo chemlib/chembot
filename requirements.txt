@@ -1,0 +1,2 @@
+chemlib==2.1.8
+discord==1.0.1
