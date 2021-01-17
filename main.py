@@ -4,7 +4,7 @@ import chemlib
 import argparse
 
 GREEN_TICK = u"\u2705"
-client = commands.Bot(command_prefix='#', help_command=None)
+client = commands.Bot(command_prefix='-', help_command=None)
 
 with open('token.txt') as f:
     token = f.readline() 
@@ -23,7 +23,7 @@ async def on_ready():
 
 @client.command(name='help', description='Gets the general properties of an element.')
 async def help(ctx):
-    embed = discord.Embed(title= '**Chemlib Commands**', color=0x7b2fde)
+    embed = discord.Embed(title= '**ChemBot Commands**', color=0x7b2fde)
     embed.set_thumbnail(url = 'https://github.com/chemlib/chemlib/blob/master/docs/build/html/_static/logo.png?raw=true')
     _ = client.command_prefix
 
