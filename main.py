@@ -6,7 +6,7 @@ import argparse
 GREEN_TICK = u"\u2705"
 RED_X = "❌"
 
-client = commands.Bot(command_prefix='>', help_command=None)
+client = commands.Bot(command_prefix='-', help_command=None)
 
 with open('token.txt') as f:
     token = f.readline() 
