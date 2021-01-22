@@ -2,17 +2,18 @@ from discord.ext import commands
 import discord
 import chemlib
 import argparse
+import reader
 
 GREEN_TICK = u"\u2705"
 RED_X = "❌"
 
-client = commands.Bot(command_prefix='-', help_command=None)
+client = commands.Bot(command_prefix='>', help_command=None)
 
 with open('token.txt') as f:
     token = f.readline() 
 
-def error(msg: str, example = None) -> discord.Embed:
-    embed = discord.Embed(title= 'An error occured.', description=msg, color=0xd43817)
+def error(msg: str, title = "An error occured.", color=0xd43817, example = None) -> discord.Embed:
+    embed = discord.Embed(title= title, description=msg, color=color)
     if example is not None:
         embed.add_field(name = "Example", value=example)
     return embed
@@ -109,5 +110,39 @@ async def gcell(ctx, *args):
         await ctx.message.add_reaction(RED_X)
         embed = error('Either one or both of the inputted electrodes is unknown or invalid.', example="-gcell Ag Pb")
         await ctx.send(embed = embed)
+
+@client.command(name='quiz', description='Science quiz.')
+async def quiz(ctx):
+    def check(author):
+        def inner_check(message):
+            return message.author == author
+        return inner_check
+
+    q = reader.random_question()
+    author = ctx.message.author
+    ans = q['Answer']
+    desc = ""
+    for opt in ('W', 'X', 'Y', 'Z'): 
+        desc += f"**{opt}.** " + q['Options'][opt] + '\n'
+    embed = discord.Embed(title = q['Question'], description=desc, color=0x7b2fde)
+    await ctx.send(embed = embed)
+    tries = 0
+    while True:
+        try:
+            msg = await client.wait_for('message', check=check(author), timeout=20 - tries*5)
+            tries += 1
+            if str(msg.content).upper() != ans:
+                await msg.add_reaction(RED_X)
+            else:
+                await msg.add_reaction(GREEN_TICK)
+                embed = error(f"The correct answer was {ans}.", title = "Well done!", color = 0x5bdb21)
+                embed.set_footer(text = f"Answered by {author}")
+                await ctx.send(embed = embed)
+                break
+        except:
+            embed = error(f"The correct answer was {ans}.", title="Time's up!")
+            embed.set_footer(text = author)
+            await ctx.send(embed = embed)
+            break
 
 client.run(str(token))

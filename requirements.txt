@@ -1,2 +1,4 @@
 chemlib
 discord
+PyPDF2
+requests
