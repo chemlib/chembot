@@ -1,0 +1,2308 @@
+[
+    {
+        "Number": 7,
+        "Subject": "ASTRONOMY",
+        "Type": "Short Answer",
+        "Question": "What is the proper name of the star that is most commonly noted to have coordinates closest to the north celestial pole?",
+        "Answer": "NORTH STAR"
+    },
+    {
+        "Number": 7,
+        "Subject": "ASTRONOMY",
+        "Type": "Short Answer",
+        "Question": "What is the most well-known asterism in Ursa Major?",
+        "Answer": "BIG DIPPER"
+    },
+    {
+        "Number": 14,
+        "Subject": "ASTRONOMY",
+        "Type": "Short Answer",
+        "Question": "What star has the greatest apparent magnitude?",
+        "Answer": "SUN"
+    },
+    {
+        "Number": 14,
+        "Subject": "ASTRONOMY",
+        "Type": "Short Answer",
+        "Question": "What planet is known to be most like Earth in size and density?",
+        "Answer": "VENUS"
+    },
+    {
+        "Number": 21,
+        "Subject": "ASTRONOMY",
+        "Type": "Short Answer",
+        "Question": "What is the declination of the north celestial pole?",
+        "Answer": "90"
+    },
+    {
+        "Number": 21,
+        "Subject": "ASTRONOMY",
+        "Type": "Short Answer",
+        "Question": "The Sagittarius Arm is part of what galaxy?",
+        "Answer": "THE MILKY WAY"
+    },
+    {
+        "Number": 7,
+        "Subject": "ASTRONOMY",
+        "Type": "Short Answer",
+        "Question": "What specific class of stars was discovered by Henrietta Leavitt to have special properties that allowed it to be used in measuring long astronomical distances?",
+        "Answer": "CEPHEID VARIABLES"
+    },
+    {
+        "Number": 7,
+        "Subject": "ASTRONOMY",
+        "Type": "Multiple Choice",
+        "Question": "Which of the following most directly addresses that a gas of low density, when excited, will emit light of a certain wavelength:",
+        "Options": {
+            "W": "Kirchhoff\u2122s second law",
+            "X": "Bode\u2122s second law",
+            "Y": "Wien\u2122s law",
+            "Z": "Balmer\u2122s law"
+        },
+        "Answer": "W"
+    },
+    {
+        "Number": 14,
+        "Subject": "ASTRONOMY",
+        "Type": "Multiple Choice",
+        "Question": "Which of the following is NOT true of coronal mass ejections:",
+        "Options": {
+            "W": "they can lead to a loss in radio communications",
+            "X": "they can indirectly cause damage to electrical transformers",
+            "Y": "they typically will not damage space-based satellites",
+            "Z": "the next peak of ejections will likely be during the years 2010 to 2012"
+        },
+        "Answer": "Y"
+    },
+    {
+        "Number": 14,
+        "Subject": "ASTRONOMY",
+        "Type": "Short Answer",
+        "Question": "Choosing from upper left, upper right, lower left, and lower right, where on the HR diagram would a blue Supergiant be found?",
+        "Answer": "UPPER LEFT"
+    },
+    {
+        "Number": 21,
+        "Subject": "ASTRONOMY",
+        "Type": "Short Answer",
+        "Question": "What 2 planets of our solar system are most alike in elemental makeup to the solar nebula?",
+        "Answer": "JUPITER;  SATURN"
+    },
+    {
+        "Number": 21,
+        "Subject": "ASTRONOMY",
+        "Type": "Short Answer",
+        "Question": "Order the following 4 stars from the HOTTEST to the COOLEST:  K-3;  K-2;  B-7;  M-10",
+        "Answer": "B-7;  K-2;  K-3;  M-10"
+    },
+    {
+        "Number": 7,
+        "Subject": "ASTRONOMY",
+        "Type": "Multiple Choice",
+        "Question": "Which of the following is LEAST accurate:",
+        "Options": {
+            "W": "most stars visible to the unaided eye are part of the Milky Way galaxy",
+            "X": "there are 88 constellations officially recognized by the IAU",
+            "Y": "a red supergiant has a hotter surface than our Sun",
+            "Z": "the constellation Leo is located within 9\u00ba of the ecliptic"
+        },
+        "Answer": "Y"
+    },
+    {
+        "Number": 7,
+        "Subject": "ASTRONOMY",
+        "Type": "Multiple Choice",
+        "Question": "Which of the following is NOT true:",
+        "Options": {
+            "W": "the core of a red supergiant is hotter than the core of a main sequence K-type star",
+            "X": "helium flash is something that occurs in red giant stars",
+            "Y": "the Pleiades is an open star cluster",
+            "Z": "there is more lithium than carbon in the universe"
+        },
+        "Answer": "Z"
+    },
+    {
+        "Number": 14,
+        "Subject": "ASTRONOMY",
+        "Type": "Multiple Choice",
+        "Question": "Which of the following is LEAST likely to occur for a stargazer observing from mid-northern latitudes during summer months:",
+        "Options": {
+            "W": "the planet Venus passing within a few degrees of the Moon a few hours after sunset",
+            "X": "the Moon at perigee",
+            "Y": "the planet Saturn passing with 5 degrees of the Moon",
+            "Z": "the planet Mercury within 10 degrees of the zenith"
+        },
+        "Answer": "Z"
+    },
+    {
+        "Number": 14,
+        "Subject": "ASTRONOMY",
+        "Type": "Short Answer",
+        "Question": "Through how many degrees does the Earth rotate in 8 hours?",
+        "Answer": "120"
+    },
+    {
+        "Number": 21,
+        "Subject": "ASTRONOMY",
+        "Type": "Short Answer",
+        "Question": "As seen from the Earth, what planet has the smallest maximum eastern elongation?",
+        "Answer": "MERCURY"
+    },
+    {
+        "Number": 21,
+        "Subject": "ASTRONOMY",
+        "Type": "Short Answer",
+        "Question": "Choosing from noon, sunset, midnight or sunrise, at what time of the day does a new Moon rise for an observer at mid-northern latitudes in September?",
+        "Answer": "SUNRISE"
+    },
+    {
+        "Number": 7,
+        "Subject": "ASTRONOMY",
+        "Type": "Multiple Choice",
+        "Question": "Which of the following is a space observatory, launched in 2004 through the combined effort of Italy, the United Kingdom, and the United States, for the detection and study of gamma-ray bursts:",
+        "Options": {
+            "W": "SOHO",
+            "X": "SWIFT",
+            "Y": "MOC",
+            "Z": "international GRB"
+        },
+        "Answer": "X"
+    },
+    {
+        "Number": 7,
+        "Subject": "ASTRONOMY",
+        "Type": "Multiple Choice",
+        "Question": "How were the rings of the planet Uranus discovered:",
+        "Options": {
+            "W": "astronomers in 1977 noticed stars were occulted by Uranus before the planet passed in front of them and reappeared afterwards",
+            "X": "the Magellan 1 space probe took pictures of them",
+            "Y": "the Hubble space telescope detected them with its infrared detector",
+            "Z": "the rings are made of gases with certain signatures revealed in absorption spectra"
+        },
+        "Answer": "W"
+    },
+    {
+        "Number": 14,
+        "Subject": "ASTRONOMY",
+        "Type": "Multiple Choice",
+        "Question": "Which of the following is NOT true:",
+        "Options": {
+            "W": "an eclipse of the Moon only occurs during a full Moon",
+            "X": "Mercury will appear to be in its full phase when it is farthest from Earth",
+            "Y": "an event horizon is associated with black holes",
+            "Z": "no more than 50% of the Moon\u2122s surface can be seen over any one year"
+        },
+        "Answer": "Z"
+    },
+    {
+        "Number": 14,
+        "Subject": "ASTRONOMY",
+        "Type": "Multiple Choice",
+        "Question": "Which of the following is the most common location of young blue and white stars in a spiral galaxy:",
+        "Options": {
+            "W": "halo",
+            "X": "spiral arms",
+            "Y": "nucleus",
+            "Z": "throughout the entire galaxy"
+        },
+        "Answer": "X"
+    },
+    {
+        "Number": 21,
+        "Subject": "ASTRONOMY",
+        "Type": "Short Answer",
+        "Question": "For someone standing at 43 north latitude, how many degrees above the horizon will the north celestial pole be?",
+        "Answer": "43"
+    },
+    {
+        "Number": 21,
+        "Subject": "ASTRONOMY",
+        "Type": "Short Answer",
+        "Question": "In what phase does the planet Venus appear during superior conjunction?",
+        "Answer": "FULL"
+    },
+    {
+        "Number": 7,
+        "Subject": "ASTRONOMY",
+        "Type": "Multiple Choice",
+        "Question": "The BEST explanation of why population I (read as: one) stars have a higher proportion of elements heavier than helium than population II ( read as: two) stars, is because Population I stars are:",
+        "Options": {
+            "W": "younger than population II stars",
+            "X": "older than population II stars",
+            "Y": "usually closer to planetary nebula than population II stars",
+            "Z": "often found near H-I (read as: H, one) regions"
+        },
+        "Answer": "W"
+    },
+    {
+        "Number": 7,
+        "Subject": "ASTRONOMY",
+        "Type": "Short Answer",
+        "Question": "How many sidereal minutes are in 7.5 sidereal hours?",
+        "Answer": "450"
+    },
+    {
+        "Number": 14,
+        "Subject": "ASTRONOMY",
+        "Type": "Multiple Choice",
+        "Question": "Which of the following is closest to the range for the Balmer series:",
+        "Options": {
+            "W": "microwave",
+            "X": "infrared through UV",
+            "Y": "UV to soft x-ray",
+            "Z": "visible light to UV"
+        },
+        "Answer": "Z"
+    },
+    {
+        "Number": 14,
+        "Subject": "ASTRONOMY",
+        "Type": "Short Answer",
+        "Question": "Choosing from upper right, lower right, lower left, and upper left, in what area of the Hertzsprung Russell diagram will the Sun end its life?",
+        "Answer": "LOWER LEFT"
+    },
+    {
+        "Number": 21,
+        "Subject": "ASTRONOMY",
+        "Type": "Short Answer",
+        "Question": "Giving your answer in decimal form, what would the \ufb01Z\ufb02 value be if a distant celestial object were shifted towards longer wavelengths by 40% of the original wavelength?",
+        "Answer": "0.4"
+    },
+    {
+        "Number": 21,
+        "Subject": "ASTRONOMY",
+        "Type": "Short Answer",
+        "Question": "If a planet had an orbital period of 11.2 years, what is the length of its orbital semi-major axis, in astronomical units rounded to the nearest whole number?",
+        "Answer": "5"
+    },
+    {
+        "Number": 7,
+        "Subject": "ASTRONOMY",
+        "Type": "Multiple Choice",
+        "Question": "Which of the following is TRUE of red supergiants:",
+        "Options": {
+            "W": "some form Cepheid variables",
+            "X": "most end as nova stars",
+            "Y": "most have luminosities about 10 to 100 times that of our Sun",
+            "Z": "most have surface temperatures at least 2-times that of our Sun"
+        },
+        "Answer": "W"
+    },
+    {
+        "Number": 7,
+        "Subject": "ASTRONOMY",
+        "Type": "Multiple Choice",
+        "Question": "Which of the following is NOT characteristic of B-type stars like Rigel or Spica (read as: SPY-kah):",
+        "Options": {
+            "W": "very luminous",
+            "X": "apparent blue color",
+            "Y": "medium strength hydrogen spectral lines",
+            "Z": "average solar mass of about 3.2"
+        },
+        "Answer": "Z"
+    },
+    {
+        "Number": 14,
+        "Subject": "ASTRONOMY",
+        "Type": "Multiple Choice",
+        "Question": "Which of the following BEST describes where the zodiacal light is brightest to a stargazer at mid-northern latitudes:",
+        "Options": {
+            "W": "within about 20 degrees of the ecliptic",
+            "X": "at the western horizon at sunrise",
+            "Y": "at right angles to the Milky Way",
+            "Z": "parallel with the Milky Way"
+        },
+        "Answer": "W"
+    },
+    {
+        "Number": 14,
+        "Subject": "ASTRONOMY",
+        "Type": "Multiple Choice",
+        "Question": "Which of the following is the BEST explanation for what causes zodiacal light:",
+        "Options": {
+            "W": "reflection of moonlight off the Earth\u2122s surface",
+            "X": "dispersion of the Earth\u2122s radiant heat off the troposphere",
+            "Y": "sunlight reflected off interplanetary dust particles",
+            "Z": "radiation from the Van Allen belts"
+        },
+        "Answer": "Y"
+    },
+    {
+        "Number": 21,
+        "Subject": "ASTRONOMY",
+        "Type": "Short Answer",
+        "Question": "If the surface temperature of a star increased from 6,000 kelvin to 18,000 kelvin, how many times as much energy would it radiate?",
+        "Answer": "81"
+    },
+    {
+        "Number": 21,
+        "Subject": "ASTRONOMY",
+        "Type": "Short Answer",
+        "Question": "Using the most common temperature-based spectral classification system, a star with an apparent color of blue and a surface temperature of 55,000 kelvin would have what spectral letter classification?",
+        "Answer": "O"
+    },
+    {
+        "Number": 7,
+        "Subject": "ASTRONOMY",
+        "Type": "Multiple Choice",
+        "Question": "Which of the following positions is an inferior planet most likely in if it is seen just after sunset:",
+        "Options": {
+            "W": "opposition",
+            "X": "superior conjunction",
+            "Y": "greatest eastern elongation",
+            "Z": "greatest western elongation"
+        },
+        "Answer": "Y"
+    },
+    {
+        "Number": 7,
+        "Subject": "ASTRONOMY",
+        "Type": "Short Answer",
+        "Question": "According to the Pogson scale for brightness, by what multiple does the brightness of 2 stars differ that have apparent magnitudes of +3 and +8?",
+        "Answer": "100"
+    },
+    {
+        "Number": 14,
+        "Subject": "ASTRONOMY",
+        "Type": "Multiple Choice",
+        "Question": "Which of the following is closest to the age of most chondrites:",
+        "Options": {
+            "W": "150 million years",
+            "X": "1.5 billion years",
+            "Y": "4.6 billion years",
+            "Z": "13.7 billion years"
+        },
+        "Answer": "Y"
+    },
+    {
+        "Number": 14,
+        "Subject": "ASTRONOMY",
+        "Type": "Multiple Choice",
+        "Question": "Which of the following best describes the hydrogen spectral line strength for an A-type star of about 3 solar masses:",
+        "Options": {
+            "W": "missing",
+            "X": "weak",
+            "Y": "medium",
+            "Z": "strong"
+        },
+        "Answer": "Z"
+    },
+    {
+        "Number": 21,
+        "Subject": "ASTRONOMY",
+        "Type": "Short Answer",
+        "Question": "In astronomical units to the first decimal place, what is the Chandrasekhar Limit?",
+        "Answer": "1.4"
+    },
+    {
+        "Number": 21,
+        "Subject": "ASTRONOMY",
+        "Type": "Short Answer",
+        "Question": "If a new Moon occurs on May 5th at 8:20 AM eastern daylight time, on what day will the full Moon occur that month?",
+        "Answer": "19th"
+    },
+    {
+        "Number": 7,
+        "Subject": "ASTRONOMY",
+        "Type": "Short Answer",
+        "Question": "Order the following 3 stages from the EARLIEST to the LATEST in the evolution of a G-type star of 2 solar masses:  red giant;  T-tauri;  white dwarf",
+        "Answer": "T-TAURI;  RED GIANT;  WHITE DWARF"
+    },
+    {
+        "Number": 7,
+        "Subject": "ASTRONOMY",
+        "Type": "Short Answer",
+        "Question": "If a star has a surface temperature of 3,000 degrees kelvin, a core temperature of 100 million Kelvin, and a luminosity of 2,000-times our Sun, choosing from upper right, upper left, lower left, and lower right, where on an H-R diagram would it most likely be found?",
+        "Answer": "UPPER RIGHT"
+    },
+    {
+        "Number": 14,
+        "Subject": "ASTRONOMY",
+        "Type": "Multiple Choice",
+        "Question": "Which of the following is LEAST likely to occur when viewed from mid-northern latitudes in the month of August:",
+        "Options": {
+            "W": "Venus passing within 2\u00ba of Saturn",
+            "X": "Neptune at opposition",
+            "Y": "the Moon at apogee on the 1st of the month and perigee at the 29th of the month",
+            "Z": "the Moon passing within 5\u00ba of Uranus"
+        },
+        "Answer": "Y"
+    },
+    {
+        "Number": 14,
+        "Subject": "ASTRONOMY",
+        "Type": "Multiple Choice",
+        "Question": "Which of the following was seen from mid-northern latitudes by casual stargazers as a bright light in August of 2008 at midnight, about 1/2 way up the southern horizon:",
+        "Options": {
+            "W": "Venus",
+            "X": "Vega",
+            "Y": "Jupiter",
+            "Z": "Uranus"
+        },
+        "Answer": "Y"
+    },
+    {
+        "Number": 21,
+        "Subject": "ASTRONOMY",
+        "Type": "Short Answer",
+        "Question": "What 3 elements are most prominent in the carbon fusion cycle?",
+        "Answer": "CARBON;  NITROGEN;  OXYGEN"
+    },
+    {
+        "Number": 21,
+        "Subject": "ASTRONOMY",
+        "Type": "Short Answer",
+        "Question": "If the surface of a star is 15,000 kelvin, at what wavelength, in nanometers rounded to the nearest whole number, does it emit its maximum energy?",
+        "Answer": "200"
+    },
+    {
+        "Number": 7,
+        "Subject": "ASTRONOMY",
+        "Type": "Multiple Choice",
+        "Question": "Which of the following would astronomers most likely consider emission nebula:",
+        "Options": {
+            "W": "Population III (read as: 3) regions",
+            "X": "Population II (read as: 2) regions",
+            "Y": "glowing H II (read as: H, 2) regions",
+            "Z": "active regions"
+        },
+        "Answer": "Y"
+    },
+    {
+        "Number": 7,
+        "Subject": "ASTRONOMY",
+        "Type": "Multiple Choice",
+        "Question": "In which of the following locations would there typically be more Population Two stars than Population One stars:",
+        "Options": {
+            "W": "in globular clusters",
+            "X": "in spiral arms of galaxies",
+            "Y": "in planetary nebula",
+            "Z": "in regions actively forming stars"
+        },
+        "Answer": "W"
+    },
+    {
+        "Number": 14,
+        "Subject": "ASTRONOMY",
+        "Type": "Short Answer",
+        "Question": "What element makes up the innermost core of a type II (read as: type 2) supernova just before core collapse?",
+        "Answer": "IRON"
+    },
+    {
+        "Number": 14,
+        "Subject": "ASTRONOMY",
+        "Type": "Short Answer",
+        "Question": "What is the magnification of a telescope with an objective lens that has a focal length of 250 centimeters and an eyepiece with a focal length of 0.50 centimeters?",
+        "Answer": "500X"
+    },
+    {
+        "Number": 21,
+        "Subject": "ASTRONOMY",
+        "Type": "Short Answer",
+        "Question": "From the LEAST to the MOST, what are the 3 most abundant elements in a G-type star?",
+        "Answer": "HYDROGEN;  HELIUM;  CARBON"
+    },
+    {
+        "Number": 21,
+        "Subject": "ASTRONOMY",
+        "Type": "Short Answer",
+        "Question": "If a supernova with an apparent magnitude of \u01522.0 was observed for the first time in the year 2,000 at 35.00 kiloparsecs from Earth, how many years before observation, rounded to the nearest whole number, did the supernova most likely occur?",
+        "Answer": "114"
+    },
+    {
+        "Number": 7,
+        "Subject": "ASTRONOMY",
+        "Type": "Short Answer",
+        "Question": "What basic force of the universe is most responsible for holding the planets of our solar system in their orbits?",
+        "Answer": "GRAVITY"
+    },
+    {
+        "Number": 7,
+        "Subject": "ASTRONOMY",
+        "Type": "Short Answer",
+        "Question": "What are the proper names of the 5 celestial bodies called wanderers by Greek astronomers because they had unusual paths in the sky throughout the year?",
+        "Answer": "MERCURY;  VENUS;  MARS;  JUPITER;  SATURN"
+    },
+    {
+        "Number": 14,
+        "Subject": "ASTRONOMY",
+        "Type": "Short Answer",
+        "Question": "First proposed by Georges Lemaitre, what is the name, most likely coined by Fred Hoyle, for the theory that the universe originated at a finite time many eons ago from an extremely compressed hot state?",
+        "Answer": "BIG BANG"
+    },
+    {
+        "Number": 14,
+        "Subject": "ASTRONOMY",
+        "Type": "Short Answer",
+        "Question": "In what constellation is the star Polaris found?",
+        "Answer": "URSA MINOR"
+    },
+    {
+        "Number": 21,
+        "Subject": "ASTRONOMY",
+        "Type": "Short Answer",
+        "Question": "What is the primary elemental product of stellar hydrogen fusion?",
+        "Answer": "HELIUM"
+    },
+    {
+        "Number": 21,
+        "Subject": "ASTRONOMY",
+        "Type": "Short Answer",
+        "Question": "In the equatorial celestial coordinate system, what terms are synonymous with longitude and latitude, respectively?",
+        "Answer": "LONGITUDE = RIGHT ASCENSION;  LATITUDE = DECLINATION"
+    },
+    {
+        "Number": 7,
+        "Subject": "ASTRONOMY",
+        "Type": "Multiple Choice",
+        "Question": "The temperature of a star can be estimated most directly from its:",
+        "Options": {
+            "W": "distance",
+            "X": "elemental makeup",
+            "Y": "color",
+            "Z": "density"
+        },
+        "Answer": "Y"
+    },
+    {
+        "Number": 7,
+        "Subject": "ASTRONOMY",
+        "Type": "Short Answer",
+        "Question": "The local group is generally referred to as a collection of what celestial objects?",
+        "Answer": "GALAXIES"
+    },
+    {
+        "Number": 14,
+        "Subject": "ASTRONOMY",
+        "Type": "Short Answer",
+        "Question": "The stars Merak and Dubhe in the bowl of the big dipper are most commonly used to locate what star?",
+        "Answer": "POLARIS"
+    },
+    {
+        "Number": 14,
+        "Subject": "ASTRONOMY",
+        "Type": "Short Answer",
+        "Question": "The main asteroid belt is located immediately between what two planets?",
+        "Answer": "MARS AND JUPITER"
+    },
+    {
+        "Number": 21,
+        "Subject": "ASTRONOMY",
+        "Type": "Short Answer",
+        "Question": "What is the proper name for the closest spiral galaxy to the Milky Way?",
+        "Answer": "ANDROMEDA"
+    },
+    {
+        "Number": 21,
+        "Subject": "ASTRONOMY",
+        "Type": "Short Answer",
+        "Question": "What is the common name for the 88 sections into which the International Astronomical Society has divided the sky?",
+        "Answer": "CONSTELLATIONS"
+    },
+    {
+        "Number": 7,
+        "Subject": "ASTRONOMY",
+        "Type": "Short Answer",
+        "Question": "What planet of our solar system has the most nitrogen-rich atmosphere?",
+        "Answer": "EARTH"
+    },
+    {
+        "Number": 7,
+        "Subject": "ASTRONOMY",
+        "Type": "Multiple Choice",
+        "Question": "Most of the galaxies in the universe are classified as which of the following:",
+        "Options": {
+            "W": "spiral",
+            "X": "elliptical",
+            "Y": "irregular",
+            "Z": "dwarf"
+        },
+        "Answer": "Z"
+    },
+    {
+        "Number": 14,
+        "Subject": "ASTRONOMY",
+        "Type": "Multiple Choice",
+        "Question": "Which of the following is the primary characteristic of the Jovian planets:",
+        "Options": {
+            "W": "high axial spin rates",
+            "X": "low mean density",
+            "Y": "retrograde orbits",
+            "Z": "prominent layer of liquid-metallic hydrogen"
+        },
+        "Answer": "X"
+    },
+    {
+        "Number": 14,
+        "Subject": "ASTRONOMY",
+        "Type": "Short Answer",
+        "Question": "Which one of the Gas Giant planets emits the LEAST amount of energy?",
+        "Answer": "URANUS"
+    },
+    {
+        "Number": 21,
+        "Subject": "ASTRONOMY",
+        "Type": "Multiple Choice",
+        "Question": "From mid-northern latitudes, during which of the following  months would the constellation Orion be most prominent in the southern sky at about 10 PM:",
+        "Options": {
+            "W": "April",
+            "X": "July",
+            "Y": "August",
+            "Z": "December"
+        },
+        "Answer": "Z"
+    },
+    {
+        "Number": 21,
+        "Subject": "ASTRONOMY",
+        "Type": "Short Answer",
+        "Question": "What is the most common term for the apparent dividing line between night and day on the Moon?",
+        "Answer": "TERMINATOR"
+    },
+    {
+        "Number": 7,
+        "Subject": "ASTRONOMY",
+        "Type": "Multiple Choice",
+        "Question": "The luminosity of a star is most directly related to the star\u2122s:",
+        "Options": {
+            "W": "relative magnitude",
+            "X": "magnitude",
+            "Y": "distance from Earth",
+            "Z": "intrinsic brightness"
+        },
+        "Answer": "Z"
+    },
+    {
+        "Number": 7,
+        "Subject": "ASTRONOMY",
+        "Type": "Multiple Choice",
+        "Question": "At which of the following locations would Betelgeuse most likely be found by a stargazer at mid-northern latitudes during January at about midnight:",
+        "Options": {
+            "W": "at the beginning of the handle of the big dipper",
+            "X": "at the zenith near the star Vega",
+            "Y": "about 10\u00ba north of Orion\u2122s belt in the southern sky",
+            "Z": "in the northern sky just above the star Capella"
+        },
+        "Answer": "Y"
+    },
+    {
+        "Number": 14,
+        "Subject": "ASTRONOMY",
+        "Type": "Short Answer",
+        "Question": "The formation of what is referred to as \ufb01metallic hydrogen\ufb02 on some of the our solar system\u2122s planets is driven by what basic force?",
+        "Answer": "GRAVITY"
+    },
+    {
+        "Number": 14,
+        "Subject": "ASTRONOMY",
+        "Type": "Multiple Choice",
+        "Question": "Which of the following would typically appear to be the farthest away from the ecliptic:",
+        "Options": {
+            "W": "the planet Mars",
+            "X": "the constellation Leo",
+            "Y": "the Sun",
+            "Z": "the constellation Cassiopeia"
+        },
+        "Answer": "Z"
+    },
+    {
+        "Number": 21,
+        "Subject": "ASTRONOMY",
+        "Type": "Short Answer",
+        "Question": "What terrestrial planet has the most elliptical orbit?",
+        "Answer": "MERCURY"
+    },
+    {
+        "Number": 21,
+        "Subject": "ASTRONOMY",
+        "Type": "Short Answer",
+        "Question": "Although you might expect this planet to be visible to the unaided eye because of its maximum apparent magnitude value of about +5.8, what planet is unlikely to be seen by most stargazers since it requires nearly ideal viewing conditions?",
+        "Answer": "URANUS"
+    },
+    {
+        "Number": 7,
+        "Subject": "ASTRONOMY",
+        "Type": "Multiple Choice",
+        "Question": "Which of the following best explains from where most of the dust that covers the surface of the Moon came:",
+        "Options": {
+            "W": "weathering when the Moon was young and had an atmosphere",
+            "X": "interstellar dust deposited over billions of years",
+            "Y": "from rock pulverized from many impacts",
+            "Z": "from its original makeup of a soft, silicate rock"
+        },
+        "Answer": "Y"
+    },
+    {
+        "Number": 7,
+        "Subject": "ASTRONOMY",
+        "Type": "Short Answer",
+        "Question": "What physical property of stars is most directly responsible for how long they will continue fusion?",
+        "Answer": "MASS"
+    },
+    {
+        "Number": 14,
+        "Subject": "ASTRONOMY",
+        "Type": "Multiple Choice",
+        "Question": "If a star is seen just above the eastern horizon at sunset, where would it most likely be found just before the following sunrise:",
+        "Options": {
+            "W": "just above the eastern horizon",
+            "X": "half-way up in the eastern sky",
+            "Y": "low in the western sky",
+            "Z": "directly overhead"
+        },
+        "Answer": "Y"
+    },
+    {
+        "Number": 14,
+        "Subject": "ASTRONOMY",
+        "Type": "Short Answer",
+        "Question": "What is the MOST common organic molecule in the atmosphere of the planet Uranus?",
+        "Answer": "METHANE"
+    },
+    {
+        "Number": 21,
+        "Subject": "ASTRONOMY",
+        "Type": "Short Answer",
+        "Question": "To the first decimal place, how many astronomical units is the average radius of the Earth\u2122s orbit around the Sun?",
+        "Answer": "1.0"
+    },
+    {
+        "Number": 21,
+        "Subject": "ASTRONOMY",
+        "Type": "Short Answer",
+        "Question": "How many degrees above the celestial equator is the north celestial pole?",
+        "Answer": "90"
+    },
+    {
+        "Number": 7,
+        "Subject": "ASTRONOMY",
+        "Type": "Short Answer",
+        "Question": "From data primarily on the motions of what planet did Kepler propose that planets follow elliptical orbits?",
+        "Answer": "MARS"
+    },
+    {
+        "Number": 7,
+        "Subject": "ASTRONOMY",
+        "Type": "Short Answer",
+        "Question": "What object in the night sky can reach a maximum apparent magnitude of negative 12.6?",
+        "Answer": "MOON"
+    },
+    {
+        "Number": 14,
+        "Subject": "ASTRONOMY",
+        "Type": "Multiple Choice",
+        "Question": "Which of the following statements is LEAST accurate:",
+        "Options": {
+            "W": "solar eclipses are less common than lunar eclipses",
+            "X": "stars that begin their lives with greater mass have longer life-spans",
+            "Y": "stars in the same constellation are not necessarily at the same distance from Earth",
+            "Z": "M-31 is a galaxy"
+        },
+        "Answer": "X"
+    },
+    {
+        "Number": 14,
+        "Subject": "ASTRONOMY",
+        "Type": "Short Answer",
+        "Question": "In what constellation is the brightest-appearing star in the night sky?",
+        "Answer": "CANIS MAJOR"
+    },
+    {
+        "Number": 21,
+        "Subject": "ASTRONOMY",
+        "Type": "Short Answer",
+        "Question": "What basic force is responsible for forming the liquid-metallic hydrogen layer on the planet Jupiter?",
+        "Answer": "GRAVITY"
+    },
+    {
+        "Number": 21,
+        "Subject": "ASTRONOMY",
+        "Type": "Short Answer",
+        "Question": "During what month is the average surface temperature of the Earth typically the highest?",
+        "Answer": "JULY"
+    },
+    {
+        "Number": 7,
+        "Subject": "ASTRONOMY",
+        "Type": "Short Answer",
+        "Question": "Which of the terrestrial planets has the lowest albedo?",
+        "Answer": "MERCURY"
+    },
+    {
+        "Number": 7,
+        "Subject": "ASTRONOMY",
+        "Type": "Short Answer",
+        "Question": "Most of the hydrogen that makes up the planet Jupiter is in what phase?",
+        "Answer": "LIQUID"
+    },
+    {
+        "Number": 14,
+        "Subject": "ASTRONOMY",
+        "Type": "Short Answer",
+        "Question": "From what specific celestial body do meteor showers originate?",
+        "Answer": "COMET(S)"
+    },
+    {
+        "Number": 14,
+        "Subject": "ASTRONOMY",
+        "Type": "Multiple Choice",
+        "Question": "Of which of the following is the Hubble Law most directly a consequence:",
+        "Options": {
+            "W": "Doppler shift",
+            "X": "Kirchoff\u2122s second law",
+            "Y": "Kepler\u2122s second law",
+            "Z": "Drake\u2122s equation"
+        },
+        "Answer": "W"
+    },
+    {
+        "Number": 21,
+        "Subject": "ASTRONOMY",
+        "Type": "Short Answer",
+        "Question": "What is the most accurate term astronomers use for the time it takes for a planet to orbit the Sun relative to the stars?",
+        "Answer": "SIDEREAL PERIOD"
+    },
+    {
+        "Number": 21,
+        "Subject": "ASTRONOMY",
+        "Type": "Short Answer",
+        "Question": "What terrestrial planet has the longest sidereal period?",
+        "Answer": "MARS"
+    },
+    {
+        "Number": 7,
+        "Subject": "ASTRONOMY",
+        "Type": "Multiple Choice",
+        "Question": "Which of the following is NOT true:",
+        "Options": {
+            "W": "the star Sirius at its brightest has an apparent magnitude of about negative 1.5",
+            "X": "metal-rich stars sometimes have planets",
+            "Y": "typical binoculars allow observation of stars with apparent magnitudes of about 9.0",
+            "Z": "the Sun has an apparent magnitude of about negative 12"
+        },
+        "Answer": "Z"
+    },
+    {
+        "Number": 7,
+        "Subject": "ASTRONOMY",
+        "Type": "Multiple Choice",
+        "Question": "Astronomers will often refer to certain stars as low metal content stars.  In this sense astronomers consider metals as any element:",
+        "Options": {
+            "W": "heavier than helium",
+            "X": "heavier than carbon",
+            "Y": "heavier than copper",
+            "Z": "heavier than iron"
+        },
+        "Answer": "W"
+    },
+    {
+        "Number": 14,
+        "Subject": "ASTRONOMY",
+        "Type": "Short Answer",
+        "Question": "As a comet approaches the Sun, most of its icy substances are released during what phase change process?",
+        "Answer": "SUBLIMATION"
+    },
+    {
+        "Number": 14,
+        "Subject": "ASTRONOMY",
+        "Type": "Multiple Choice",
+        "Question": "During which of the following orbital arrangements can a transit occur for the planet Venus:",
+        "Options": {
+            "W": "opposition",
+            "X": "greatest eastern elongation",
+            "Y": "superior conjunction",
+            "Z": "inferior conjunction"
+        },
+        "Answer": "Z"
+    },
+    {
+        "Number": 21,
+        "Subject": "ASTRONOMY",
+        "Type": "Short Answer",
+        "Question": "Which 2 of the following 4 factors most directly determine the apparent visual magnitude of a star: distance from Earth;  intrinsic brightness;  color;  age",
+        "Answer": "DISTANCE FROM EARTH;  INTRINSIC BRIGHTNESS"
+    },
+    {
+        "Number": 21,
+        "Subject": "ASTRONOMY",
+        "Type": "Short Answer",
+        "Question": "What 2 characteristics of Uranus are most commonly noted as the reasons why Uranus was not discovered until the late 1700\u2122s?",
+        "Answer": "APPARENT MAGNITUDE;  ORBITAL PERIOD"
+    },
+    {
+        "Number": 7,
+        "Subject": "ASTRONOMY",
+        "Type": "Short Answer",
+        "Question": "What is the most common term for the celestial phenomenon that causes a comet's tail in our solar system to point away from the Sun?",
+        "Answer": "THE SOLAR WIND"
+    },
+    {
+        "Number": 7,
+        "Subject": "ASTRONOMY",
+        "Type": "Multiple Choice",
+        "Question": "Which of the following is the BEST description of our Sun:",
+        "Options": {
+            "W": "a cool large star similar to Proxima Centauri",
+            "X": "a small-sized star about 6 billion years old",
+            "Y": "a mid-sized yellow dwarf star",
+            "Z": "a large-sized red giant about 4.7 billion years old"
+        },
+        "Answer": "Y"
+    },
+    {
+        "Number": 14,
+        "Subject": "ASTRONOMY",
+        "Type": "Multiple Choice",
+        "Question": "Which of the following is NOT true:",
+        "Options": {
+            "W": "most of the meteorites that have been found have a high iron content",
+            "X": "a bolometer is used to measure the energy output of the Sun",
+            "Y": "the celestial coordinate analogous to latitude is called ascension",
+            "Z": "sunlight reflecting off the Earth is called Earthshine"
+        },
+        "Answer": "Y"
+    },
+    {
+        "Number": 14,
+        "Subject": "ASTRONOMY",
+        "Type": "Multiple Choice",
+        "Question": "Which of the following BEST describes the zenith:",
+        "Options": {
+            "W": "the point in the sky that is at 180 degrees of inclination to the horizon",
+            "X": "90 degrees opposite to the nadir",
+            "Y": "the opposite position on the ecliptic to an observer",
+            "Z": "the point on the celestial sphere directly overhead of an observer"
+        },
+        "Answer": "Z"
+    },
+    {
+        "Number": 21,
+        "Subject": "ASTRONOMY",
+        "Type": "Short Answer",
+        "Question": "What is the Latin-derived term for the relatively smooth lunar plains that are areas of the Moon that appear dark as viewed from Earth?",
+        "Answer": "MARE"
+    },
+    {
+        "Number": 21,
+        "Subject": "ASTRONOMY",
+        "Type": "Short Answer",
+        "Question": "What planet has the greatest variation in temperature over a single one of its planetary days?",
+        "Answer": "MERCURY"
+    },
+    {
+        "Number": 7,
+        "Subject": "ASTRONOMY",
+        "Type": "Multiple Choice",
+        "Question": "All the stars of the Pleiades open cluster have:",
+        "Options": {
+            "W": "the same luminosities",
+            "X": "the same surface temperatures",
+            "Y": "very similar chemical compositions",
+            "Z": "the same apparent magnitudes"
+        },
+        "Answer": "Y"
+    },
+    {
+        "Number": 7,
+        "Subject": "ASTRONOMY",
+        "Type": "Multiple Choice",
+        "Question": "When binary stars are made of a main sequence star and a compact white dwarf, as long as the white dwarf\u00d5s mass remains below 1.4 solar masses then the gas falling into the white dwarf is believed to often result in a:",
+        "Options": {
+            "W": "supernova",
+            "X": "nova",
+            "Y": "pulsar",
+            "Z": "quasar"
+        },
+        "Answer": "X"
+    },
+    {
+        "Number": 14,
+        "Subject": "ASTRONOMY",
+        "Type": "Multiple Choice",
+        "Question": "In what area of the sky would the planet Venus be MOST likely to be seen a few hours after sunset from mid-northern latitudes:",
+        "Options": {
+            "W": "low in the western sky",
+            "X": "high in the southern sky",
+            "Y": "directly overhead",
+            "Z": "high in the northern sky"
+        },
+        "Answer": "W"
+    },
+    {
+        "Number": 14,
+        "Subject": "ASTRONOMY",
+        "Type": "Short Answer",
+        "Question": "How many degrees along the meridian is the nadir from the zenith?",
+        "Answer": "180"
+    },
+    {
+        "Number": 21,
+        "Subject": "ASTRONOMY",
+        "Type": "Short Answer",
+        "Question": "What astronomical constant has the value of 70 kilometers per second per megaparsec?",
+        "Answer": "HUBBLE CONSTANT"
+    },
+    {
+        "Number": 21,
+        "Subject": "ASTRONOMY",
+        "Type": "Short Answer",
+        "Question": "Order the following 3 celestial objects from the one with the LEAST number of impact craters to the MOST:  Earth\u00d5s Moon;  Earth;  Venus",
+        "Answer": "EARTH;  VENUS;  EARTH\u00d5S MOON"
+    },
+    {
+        "Number": 7,
+        "Subject": "ASTRONOMY",
+        "Type": "Multiple Choice",
+        "Question": "Recent analysis of Cassini spacecraft data has provided convincing evidence that Saturn\u00d5s Moon Titan has:",
+        "Options": {
+            "W": "large seas of liquid water",
+            "X": "methane lakes on its surface",
+            "Y": "a moon of its own",
+            "Z": "a large active volcano"
+        },
+        "Answer": "X"
+    },
+    {
+        "Number": 7,
+        "Subject": "ASTRONOMY",
+        "Type": "Multiple Choice",
+        "Question": "Which of the following is the next stage in the evolution of a single star after the red giant stage:",
+        "Options": {
+            "W": "white dwarf",
+            "X": "red dwarf",
+            "Y": "planetary nebula",
+            "Z": "nova"
+        },
+        "Answer": "Y"
+    },
+    {
+        "Number": 14,
+        "Subject": "ASTRONOMY",
+        "Type": "Multiple Choice",
+        "Question": "Microlensing is BEST explained by which of the following theories or laws:",
+        "Options": {
+            "W": "Quantum theory",
+            "X": "General Relativity",
+            "Y": "Kirchhoff\u00d5s laws",
+            "Z": "Maxwell\u00d5s law"
+        },
+        "Answer": "X"
+    },
+    {
+        "Number": 14,
+        "Subject": "ASTRONOMY",
+        "Type": "Multiple Choice",
+        "Question": "Which of the following is a type of telescope technology that uses mirrors whose shapes can be deformed:",
+        "Options": {
+            "W": "Schmidt optics",
+            "X": "redundant interfermetric optics",
+            "Y": "CCD optics",
+            "Z": "adaptive optics"
+        },
+        "Answer": "Z"
+    },
+    {
+        "Number": 21,
+        "Subject": "ASTRONOMY",
+        "Type": "Short Answer",
+        "Question": "Name all of the following 4 celestial objects that are typically considered minor planets:  Ceres;  Titan;  Mercury;  Juno",
+        "Answer": "CERES AND JUNO"
+    },
+    {
+        "Number": 21,
+        "Subject": "ASTRONOMY",
+        "Type": "Short Answer",
+        "Question": "How many times as great will light-gathering power of a reflector telescope be if the radius of its primary mirror is doubled?",
+        "Answer": "4"
+    },
+    {
+        "Number": 7,
+        "Subject": "ASTRONOMY",
+        "Type": "Multiple Choice",
+        "Question": "Landform deposits called linear dunes that were recently found on the moon Titan are MOST directly produced by:",
+        "Options": {
+            "W": "tectonic activity",
+            "X": "wind",
+            "Y": "erosion by the retreat and advance of large seas of liquid methane",
+            "Z": "streaks in the surface following low-angle meteorite impacts"
+        },
+        "Answer": "X"
+    },
+    {
+        "Number": 7,
+        "Subject": "ASTRONOMY",
+        "Type": "Short Answer",
+        "Question": "What is the magnifying power of the telescope with a focal length of 5 meters and an eyepiece of 20 millimeters?",
+        "Answer": "250"
+    },
+    {
+        "Number": 14,
+        "Subject": "ASTRONOMY",
+        "Type": "Short Answer",
+        "Question": "A sidereal drive is a motor on a telescope that turns it in a certain direction to keep the telescope aimed at a certain celestial object.  Giving your answer as north, south, east or west, in what direction does it turn?",
+        "Answer": "WEST"
+    },
+    {
+        "Number": 14,
+        "Subject": "ASTRONOMY",
+        "Type": "Multiple Choice",
+        "Question": "The Wilkinson Microwave Anisotropy Probe was specifically designed to:",
+        "Options": {
+            "W": "map all matter in the universe down to a resolution of 1 arc second",
+            "X": "map the cosmic background radiation to much greater accuracy and precision than previous instruments",
+            "Y": "map the size and locations of the Local Group",
+            "Z": "map the exact location of the active galactic center of the Milky Way"
+        },
+        "Answer": "X"
+    },
+    {
+        "Number": 21,
+        "Subject": "ASTRONOMY",
+        "Type": "Short Answer",
+        "Question": "If the surface temperature of a given star increased from 20,000K to 60,000K, how many times as much energy would the star release?",
+        "Answer": "81"
+    },
+    {
+        "Number": 21,
+        "Subject": "ASTRONOMY",
+        "Type": "Short Answer",
+        "Question": "Name all of the following 4 celestial objects that, when viewed from the Earth, CANNOT be in opposition:  Moon;  Mercury;  Mars;  Neptune",
+        "Answer": "MERCURY"
+    },
+    {
+        "Number": 7,
+        "Subject": "ASTRONOMY",
+        "Type": "Multiple Choice",
+        "Question": "Which of the following is LEAST accurate:",
+        "Options": {
+            "W": "magnetic fields can be strongly amplified when 2 neutron stars merge",
+            "X": "Saturn\u00d5s moon Titan has been found to have large dunes",
+            "Y": "hydrogen and nitrogen isotopes have been found in organic matter of primitive meteorites",
+            "Z": "interplanetary dust particles are typically nitrogen-rich and carbon-poor"
+        },
+        "Answer": "Z"
+    },
+    {
+        "Number": 7,
+        "Subject": "ASTRONOMY",
+        "Type": "Multiple Choice",
+        "Question": "Which of the following is LEAST accurate:",
+        "Options": {
+            "W": "the imaginary north-south line that passes through the zenith on the celestial sphere is the meridian",
+            "X": "Kirkwood gaps are gaps in the main asteroid belt caused by the gravitational effects of Mars",
+            "Y": "Population TWO stars are composed mostly of hydrogen and helium",
+            "Z": "a negative sign indicates the celestial coordinate is in the southern hemisphere"
+        },
+        "Answer": "X"
+    },
+    {
+        "Number": 12,
+        "Subject": "ASTRONOMY",
+        "Type": "Multiple Choice",
+        "Question": "Which of the following was the primary instrument used to gather 5 to 35 micrometer spectra data from the Deep Impact mission:",
+        "Options": {
+            "W": "Chandra X-ray observatory",
+            "X": "Arecibo radio telescope",
+            "Y": "Hubble gamma-ray telescope",
+            "Z": "Spitzer infrared spectrograph"
+        },
+        "Answer": "Z"
+    },
+    {
+        "Number": 12,
+        "Subject": "ASTRONOMY",
+        "Type": "Multiple choice",
+        "Question": "By what multiple does the brightness of two stars differ with apparent magnitudes of \u00d03 and +4:   W)  2.5 X)  25   Y)  250 Z)  625",
+        "Answer": "Z)  625"
+    },
+    {
+        "Number": 14,
+        "Subject": "ASTRONOMY",
+        "Type": "Short Answer",
+        "Question": "If the temperature of an object is doubled, and all other things remain the same, how many times as fast will it radiate energy?",
+        "Answer": "16"
+    },
+    {
+        "Number": 14,
+        "Subject": "ASTRONOMY",
+        "Type": "Short Answer",
+        "Question": "How many sidereal minutes are in 4 sidereal hours?",
+        "Answer": "240"
+    },
+    {
+        "Number": 21,
+        "Subject": "ASTRONOMY",
+        "Type": "Short Answer",
+        "Question": "Name all of the following 4 objects that would NOT be found on Earth:  meteors;  craters;  asteroid impact remnants;  bolides",
+        "Answer": "METEORS;"
+    },
+    {
+        "Number": 21,
+        "Subject": "ASTRONOMY",
+        "Type": "Short Answer",
+        "Question": "For someone standing at 22\u00a1 North latitude, how many degrees above the horizon will the north celestial pole be?",
+        "Answer": "22"
+    },
+    {
+        "Number": 7,
+        "Subject": "ASTRONOMY",
+        "Type": "Multiple Choice",
+        "Question": "If an astronomer photographed a massive cloud of ionized hydrogen in space that was emitting all of the Balmer wavelengths, what color would it typically appear to us:",
+        "Options": {
+            "W": "white",
+            "X": "green",
+            "Y": "pink",
+            "Z": "blue"
+        },
+        "Answer": "Y"
+    },
+    {
+        "Number": 7,
+        "Subject": "ASTRONOMY",
+        "Type": "Multiple Choice",
+        "Question": "Which of the following was discovered in the 1600\u00d5s about Venus that was strong evidence that the planets orbited the Sun:",
+        "Options": {
+            "W": "Venus\u00d5s cloud cover reverses its direction in the sky at certain times of the year",
+            "X": "Venus has phases varying from crescent to full",
+            "Y": "Venus has an axial motion opposite to that of the Earth",
+            "Z": "Venus is the brightest planet in the sky only part of the year"
+        },
+        "Answer": "X"
+    },
+    {
+        "Number": 14,
+        "Subject": "ASTRONOMY",
+        "Type": "Multiple choice",
+        "Question": "According to the location in the H-R diagram, which of the following stars has the highest absolute visual magnitude and is also the hottest:   W)  one located in the upper left of the diagram X)  one located in the upper right of the diagram Y)  one located in the lower left of the diagram Z)  one located in the lower right of the diagram",
+        "Answer": "W)  ONE LOCATED IN THE UPPER LEFT OF THE DIAGRAM"
+    },
+    {
+        "Number": 14,
+        "Subject": "ASTRONOMY",
+        "Type": "Short Answer",
+        "Question": "What is the MOST common scientific term for the specific spectral line-splitting effect resulting when atoms absorb or emit radiation in the presence of a magnetic field?",
+        "Answer": "ZEEMAN EFFECT"
+    },
+    {
+        "Number": 21,
+        "Subject": "ASTRONOMY",
+        "Type": "Short Answer",
+        "Question": "What is the most common astronomical term for the geometrical configuration where Venus is between the Earth and the Sun?",
+        "Answer": "INFERIOR CONJUNCTION"
+    },
+    {
+        "Number": 21,
+        "Subject": "ASTRONOMY",
+        "Type": "Short Answer",
+        "Question": "How many degrees of arc are in 4 hours and 20 minutes of right ascension?",
+        "Answer": "65 DEGREES"
+    },
+    {
+        "Number": 7,
+        "Subject": "ASTRONOMY",
+        "Type": "Multiple Choice",
+        "Question": "Which of the following is the BEST explanation of why Population One stars have a high metal content:",
+        "Options": {
+            "W": "old stars lose their metals as they age",
+            "X": "old stars convert their metals to non-metals",
+            "Y": "young stars acquire metals when they form from previous stars that created the metals",
+            "Z": "all stars accumulate metals early in their development"
+        },
+        "Answer": "Y"
+    },
+    {
+        "Number": 7,
+        "Subject": "ASTRONOMY",
+        "Type": "Multiple Choice",
+        "Question": "Which of the following is the BEST description of the composition of our Sun:",
+        "Options": {
+            "W": "71% hydrogen, 27% helium, and 2% other",
+            "X": "80% hydrogen, 19% helium, and 1% other",
+            "Y": "90% hydrogen, 9% helium, and 1% other",
+            "Z": "99% hydrogen, 1% helium"
+        },
+        "Answer": "W"
+    },
+    {
+        "Number": 14,
+        "Subject": "ASTRONOMY",
+        "Type": "Multiple Choice",
+        "Question": "Which of the following is the BEST reason why the Sun\u00d5s corona primarily emits x-rays:",
+        "Options": {
+            "W": "it has a high-strength magnetic field",
+            "X": "it is where most of the neutrinos escape to outer space",
+            "Y": "it is a convecting zone",
+            "Z": "it is very hot"
+        },
+        "Answer": "Z"
+    },
+    {
+        "Number": 14,
+        "Subject": "ASTRONOMY",
+        "Type": "Multiple Choice",
+        "Question": "Which of the following is a spacecraft that is stationed to continuously observe the Sun:",
+        "Options": {
+            "W": "Chandra",
+            "X": "Hubble",
+            "Y": "SOHO  (read as: so-ho)",
+            "Z": "Galileo 3"
+        },
+        "Answer": "Y"
+    },
+    {
+        "Number": 21,
+        "Subject": "ASTRONOMY",
+        "Type": "Short Answer",
+        "Question": "In what region of the electromagnetic spectrum is a supernova most commonly detected?",
+        "Answer": "ULTRAVIOLET"
+    },
+    {
+        "Number": 21,
+        "Subject": "ASTRONOMY",
+        "Type": "Short Answer",
+        "Question": "What are the 3 general layers of the Sun\u00d5s atmosphere from INNERMOST to OUTERMOST?",
+        "Answer": "PHOTOSPHERE;  CHROMOSPHERE;  CORONA"
+    },
+    {
+        "Number": 7,
+        "Subject": "ASTRONOMY",
+        "Type": "Multiple Choice",
+        "Question": "Which of the following is TRUE:",
+        "Options": {
+            "W": "the far side of the Moon from Earth has more large maria than the near side",
+            "X": "the next sunspot minimum is expected in 2008",
+            "Y": "the declination of the Sun during the winter solstice is 23.5 degrees north",
+            "Z": "B-type stars have strong absorption lines for neutral helium"
+        },
+        "Answer": "Z"
+    },
+    {
+        "Number": 7,
+        "Subject": "ASTRONOMY",
+        "Type": "Multiple Choice",
+        "Question": "Which of the following is the BEST description of a Cepheid variable star:",
+        "Options": {
+            "W": "a pulsating variable varying in brightness in a very regular time period of 1 to 50 days",
+            "X": "a short pulsating variable with a very regular period of 1 to 4 minutes",
+            "Y": "a binary star system with an eclipsing partner",
+            "Z": "a small k-type star with a very regular period of 1 to 3 weeks"
+        },
+        "Answer": "W"
+    },
+    {
+        "Number": 14,
+        "Subject": "ASTRONOMY",
+        "Type": "Multiple choice",
+        "Question": "Which of the following is LEAST accurate:  W)  the Sun\u00d5s corona is hotter than both the photosphere and the chromosphere  X)  the Crab nebula is a remnant of a supernova that collapsed in the year 1054 Y)  equinoxes are points on the celestial sphere where the celestial equator is intersected by the ecliptic Z)  epicycles were employed by Ptolemy to explain retrograde motion in planets",
+        "Answer": "X)  THE CRAB NEBULA IS A REMNANT OF A SUPERNOVA THAT COLLAPSED IN THE YEAR 1054"
+    },
+    {
+        "Number": 14,
+        "Subject": "ASTRONOMY",
+        "Type": "Multiple Choice",
+        "Question": "Which of the following is LEAST likely true about gamma ray bursts:",
+        "Options": {
+            "W": "they are extremely powerful emissions of energy",
+            "X": "they are probably often associated with black holes",
+            "Y": "they probably result from a neutron star merging with a black hole",
+            "Z": "they typically last less than a hundredth of a second"
+        },
+        "Answer": "Z"
+    },
+    {
+        "Number": 21,
+        "Subject": "ASTRONOMY",
+        "Type": "Short Answer",
+        "Question": "The abundance of what element in T-Tauri stars is the best indication that they are young stars?",
+        "Answer": "LITHIUM"
+    },
+    {
+        "Number": 21,
+        "Subject": "ASTRONOMY",
+        "Type": "Short Answer",
+        "Question": "Name all of the following instruments that have been used to help understand the critical density of our universe:  COBE;  WMAP;  BOOMERANG",
+        "Answer": "COBE;  WMAP;"
+    },
+    {
+        "Number": 7,
+        "Subject": "ASTRONOMY",
+        "Type": "Multiple Choice",
+        "Question": "Which of the following MOST directly predicts that the maximum mass possible for a white dwarf is about 1.4-times that of the Sun:",
+        "Options": {
+            "W": "the Hubble constant",
+            "X": "the Chandrasekhar limit  (read as: chan-dra-SAY-kar)",
+            "Y": "General Relativity",
+            "Z": "the Fornax theorem"
+        },
+        "Answer": "X"
+    },
+    {
+        "Number": 7,
+        "Subject": "ASTRONOMY",
+        "Type": "Multiple choice",
+        "Question": "Which of the following is illustrated on Maunder\u00d5s diagram:   W)  sunspot activity  X)  stellar luminosity Y)  cometary periods Z)  planetary orbital periods",
+        "Answer": "W)  SUNSPOT ACTIVITY"
+    },
+    {
+        "Number": 14,
+        "Subject": "ASTRONOMY",
+        "Type": "Multiple choice",
+        "Question": "In the first step of the proton-proton chain, when two protons come together one of the protons remains as a proton and the other:   W)  is annihilated X)  turns into a neutron Y)  turns into a negatron  Z)  also remains as a proton",
+        "Answer": "X)  TURNS INTO A NEUTRON"
+    },
+    {
+        "Number": 14,
+        "Subject": "ASTRONOMY",
+        "Type": "Multiple choice",
+        "Question": "In the second step of the proton-proton chain, which of the following occurs:  W)  a proton combines with deuterium to produce helium-3 and a gamma ray is emitted X)  a neutron combines with deuterium to produce helium-3 and a neutrino is emitted Y)  a proton combines with deuterium to produce helium-3 and a neutrino ray is emitted Z)  a neutron combines with deuterium to produce helium-2 and a positron is emitted",
+        "Answer": "W)  A PROTON COMBINES WITH DEUTERIUM"
+    },
+    {
+        "Number": 21,
+        "Subject": "ASTRONOMY",
+        "Type": "Short Answer",
+        "Question": "Order the following 3 stars from the one that will undergo fusion for the SHORTEST time to the LONGEST:  red dwarf;  our Sun;  large mass o-type star",
+        "Answer": "LARGE MASS O-TYPE STAR;  OUR SUN;  RED DWARF"
+    },
+    {
+        "Number": 21,
+        "Subject": "ASTRONOMY",
+        "Type": "Short Answer",
+        "Question": "If a stellar body\u00d5s surface is 5,000 kelvin, what is its peak emission of electromagnetic radiation, in nanometers?",
+        "Answer": "580"
+    },
+    {
+        "Number": 7,
+        "Subject": "ASTRONOMY",
+        "Type": "Multiple Choice",
+        "Question": "Our Sun is a:",
+        "Options": {
+            "W": "A-type star",
+            "X": "B-type star",
+            "Y": "G-type star",
+            "Z": "K-type star"
+        },
+        "Answer": "Y"
+    },
+    {
+        "Number": 7,
+        "Subject": "ASTRONOMY",
+        "Type": "Short Answer",
+        "Question": "What element was first discovered through spectroscopic analysis of the Sun?",
+        "Answer": "HELIUM"
+    },
+    {
+        "Number": 14,
+        "Subject": "ASTRONOMY",
+        "Type": "Multiple choice",
+        "Question": "Main sequence stars are found in a region on the H-R diagram that is oriented on the diagram from:   W)  upper left to lower left X)  upper left to lower right Y)  upper right to lower left Z)  upper right to lower right",
+        "Answer": "X)  UPPER LEFT"
+    },
+    {
+        "Number": 14,
+        "Subject": "ASTRONOMY",
+        "Type": "Multiple Choice",
+        "Question": "Which of the following is the BEST explanation for why the Northern Hemisphere\u00d5s summer occurs when the Sun is not the closest to Earth in Earth\u00d5s orbit around the Sun:",
+        "Options": {
+            "W": "the Sun\u00d5s rays are made of mostly neutrinos that have such small mass that distance does not matter",
+            "X": "the Sun emits different amounts of energy at different times of the year",
+            "Y": "the Sun\u00d5s rays strike the Northern Hemisphere more directly in summer",
+            "Z": "because of precession"
+        },
+        "Answer": "Y"
+    },
+    {
+        "Number": 21,
+        "Subject": "ASTRONOMY",
+        "Type": "Short Answer",
+        "Question": "What scientific term is given to the apparent path of the Sun around the celestial sphere?",
+        "Answer": "THE ECLIPTIC"
+    },
+    {
+        "Number": 21,
+        "Subject": "ASTRONOMY",
+        "Type": "Short Answer",
+        "Question": "The local group is a collection of what type of astronomical bodies?",
+        "Answer": "GALAXIES"
+    },
+    {
+        "Number": 7,
+        "Subject": "ASTRONOMY",
+        "Type": "Multiple Choice",
+        "Question": "At about 10 PM in late summer of 2006, an observer at about 35 degrees north latitude would most likely see the stars Altair, Deneb and Vega in which of the following places in the sky:",
+        "Options": {
+            "W": "low in the east",
+            "X": "low in the west",
+            "Y": "about half way up in the northern sky",
+            "Z": "almost directly overhead"
+        },
+        "Answer": "Z"
+    },
+    {
+        "Number": 7,
+        "Subject": "ASTRONOMY",
+        "Type": "Short Answer",
+        "Question": "What is the most common astronomical term for the interval of time between two successive passages of the Sun through the vernal equinox?",
+        "Answer": "TROPICAL YEAR"
+    },
+    {
+        "Number": 14,
+        "Subject": "ASTRONOMY",
+        "Type": "Multiple Choice",
+        "Question": "Which of the following can you estimate BEST if you know the color of a star:",
+        "Options": {
+            "W": "luminosity",
+            "X": "elemental makeup",
+            "Y": "temperature",
+            "Z": "mass"
+        },
+        "Answer": "Y"
+    },
+    {
+        "Number": 14,
+        "Subject": "ASTRONOMY",
+        "Type": "Multiple Choice",
+        "Question": "Which of the following is closest to the maximum apparent brightness of the brightest star in the night sky from anywhere on Earth:",
+        "Options": {
+            "W": "\u00d015",
+            "X": "\u00d01.5",
+            "Y": "4.5",
+            "Z": "6"
+        },
+        "Answer": "X"
+    },
+    {
+        "Number": 21,
+        "Subject": "ASTRONOMY",
+        "Type": "Short Answer",
+        "Question": "If a stargazer in Vermont during the midnight April sky follows the pointer stars of the Big Dipper about 35\u00bc in the opposite direction of Polaris, which one of the following 5 constellations will she most likely encounter:  Bootes;  Libra;  Canus Major;  Leo;  Lepus",
+        "Answer": "LEO"
+    },
+    {
+        "Number": 21,
+        "Subject": "ASTRONOMY",
+        "Type": "Short Answer",
+        "Question": "To an observer on the Moon, in what phase would the Earth appear when an observer on Earth saw the Moon in its 3rd quarter?",
+        "Answer": "FIRST QUARTER"
+    },
+    {
+        "Number": 7,
+        "Subject": "ASTRONOMY",
+        "Type": "Multiple Choice",
+        "Question": "Which of the following is NOT true:",
+        "Options": {
+            "W": "Vega is part of the summer triangle",
+            "X": "the Seven Sisters is a star cluster",
+            "Y": "Cassiopeia is a constellation generally shaped like a W",
+            "Z": "cosmic rays are electromagnetic radiation of very high energies"
+        },
+        "Answer": "Z"
+    },
+    {
+        "Number": 7,
+        "Subject": "ASTRONOMY",
+        "Type": "Short Answer",
+        "Question": "The north magnetic pole of the Sun reverses every so many years.  How many years does it take for one complete cycle for the Sun to return to its original state or what might be looked at as two reversals?",
+        "Answer": "22"
+    },
+    {
+        "Number": 14,
+        "Subject": "ASTRONOMY",
+        "Type": "Multiple Choice",
+        "Question": "Which of the following would have a Widmanst\u2212tten Pattern:",
+        "Options": {
+            "W": "meteorite",
+            "X": "comet",
+            "Y": "planet",
+            "Z": "constellation"
+        },
+        "Answer": "W"
+    },
+    {
+        "Number": 14,
+        "Subject": "ASTRONOMY",
+        "Type": "Multiple Choice",
+        "Question": "Which of the following is the BEST description of the H-R Diagram:",
+        "Options": {
+            "W": "it plots apparent brightness versus age",
+            "X": "it plots luminosity versus surface temperature with highest temperatures on the right",
+            "Y": "it plots luminosity versus surface temperature with highest temperatures on the left",
+            "Z": "it plots apparent magnitude versus average stellar temperature"
+        },
+        "Answer": "Y"
+    },
+    {
+        "Number": 21,
+        "Subject": "ASTRONOMY",
+        "Type": "Multiple Choice",
+        "Question": "Which of the following constellations are circumpolar for people in North America and are found on opposite sides and close to Polaris:",
+        "Options": {
+            "W": "Cassiopeia and Ursa Major",
+            "X": "Orion and Leo",
+            "Y": "Aquarius and Capricorn",
+            "Z": "Leo and Sagittarius"
+        },
+        "Answer": "W"
+    },
+    {
+        "Number": 21,
+        "Subject": "ASTRONOMY",
+        "Type": "Short Answer",
+        "Question": "What is the astronomical distance at which a star would have a parallax of 1 arcsecond?",
+        "Answer": "PARSEC"
+    },
+    {
+        "Number": 7,
+        "Subject": "ASTRONOMY",
+        "Type": "Multiple Choice",
+        "Question": "Which of the following is the MOST common term for a galaxy that is emitting a large amount of radiation from a black hole at its center:",
+        "Options": {
+            "W": "bright galaxy",
+            "X": "luminous galaxy",
+            "Y": "active galaxy",
+            "Z": "event galaxy"
+        },
+        "Answer": "Y"
+    },
+    {
+        "Number": 7,
+        "Subject": "ASTRONOMY",
+        "Type": "Multiple choice",
+        "Question": "Stars in the spectral class A would have a surface temperature of about:  W)  5,000 K X)  10,000 K Y)  15,000 K Z)  20,000 K",
+        "Answer": "X)  10,000 K"
+    },
+    {
+        "Number": 14,
+        "Subject": "ASTRONOMY",
+        "Type": "Multiple Choice",
+        "Question": "Which of the following is LEAST accurate:",
+        "Options": {
+            "W": "at the equator, stars appear to rise and set vertically",
+            "X": "all Mira stars are Red Giants",
+            "Y": "right ascension is analogous to longitude",
+            "Z": "the Earth is closest to the Sun during December"
+        },
+        "Answer": "Z"
+    },
+    {
+        "Number": 14,
+        "Subject": "ASTRONOMY",
+        "Type": "Multiple Choice",
+        "Question": "Which of the following is the MOST commonly accepted reason as to why the planet Uranus rotates on its side:",
+        "Options": {
+            "W": "it oscillates in its rotation orientation over thousands of years",
+            "X": "it captured four of its moons early in its development which radically affected its primordial disk rotation",
+            "Y": "it was once struck by a massive object",
+            "Z": "because of its orbital position and low density it was susceptible to a wide variety of axial rotational possibilities"
+        },
+        "Answer": "Y"
+    },
+    {
+        "Number": 21,
+        "Subject": "ASTRONOMY",
+        "Type": "Multiple choice",
+        "Question": "A star is found to have a surface temperature of 20,000 kelvin.  Which of the following spectral types is it most likely to be:  W)  A X)  F  Y)  G Z)  O",
+        "Answer": "Z)  O"
+    },
+    {
+        "Number": 21,
+        "Subject": "ASTRONOMY",
+        "Type": "Short Answer",
+        "Question": "What is the astronomical term for a planet\u00d5s orbital point that is closest to the Sun?",
+        "Answer": "PERIHELION"
+    },
+    {
+        "Number": 7,
+        "Subject": "ASTRONOMY",
+        "Type": "Multiple Choice",
+        "Question": "Which of the following is NOT true:",
+        "Options": {
+            "W": "the rotation of the Sun\u00d5s surface is faster at the equator than at the poles",
+            "X": "the apparent magnitude of an RR Lyrae depends most on its distance from the Earth",
+            "Y": "Venus appears its largest to nighttime observers when it is in its full phase",
+            "Z": "a star\u00d5s light curve typically plots brightness verses time"
+        },
+        "Answer": "Y"
+    },
+    {
+        "Number": 7,
+        "Subject": "ASTRONOMY",
+        "Type": "Multiple Choice",
+        "Question": "Which of the following techniques would you most directly be using if you were analyzing a Balmer and Lyman series:",
+        "Options": {
+            "W": "astrolabe measurements",
+            "X": "spectroscopy",
+            "Y": "nuclear fission",
+            "Z": "bolometric analysis"
+        },
+        "Answer": "X"
+    },
+    {
+        "Number": 14,
+        "Subject": "ASTRONOMY",
+        "Type": "Short Answer",
+        "Question": "With reference to the Sun\u00d5s position in the sky, when does a full Moon set?",
+        "Answer": "WHEN THE SUN RISES"
+    },
+    {
+        "Number": 14,
+        "Subject": "ASTRONOMY",
+        "Type": "Short Answer",
+        "Question": "In a Newtonian telescope, how many degrees is the secondary mirror tilted in reference to the primary?",
+        "Answer": "45"
+    },
+    {
+        "Number": 21,
+        "Subject": "ASTRONOMY",
+        "Type": "Short Answer",
+        "Question": "What planet is never more than 28\u00bc from the Sun in the evening sky?",
+        "Answer": "MERCURY"
+    },
+    {
+        "Number": 21,
+        "Subject": "ASTRONOMY",
+        "Type": "Multiple Choice",
+        "Question": "At 8:00 AM in early August of 2006 in New York, the Moon could be seen low in the western sky.  What phase was it most likely in:",
+        "Options": {
+            "W": "waxing crescent",
+            "X": "just past new",
+            "Y": "a few days past full",
+            "Z": "first quarter"
+        },
+        "Answer": "Y"
+    },
+    {
+        "Number": 7,
+        "Subject": "ASTRONOMY",
+        "Type": "Multiple Choice",
+        "Question": "Which of the following sets of constellations would be found nearest the ecliptic to an observer in mid-northern latitudes:",
+        "Options": {
+            "W": "Leo, Virgo, and Scorpius",
+            "X": "Pisces, Aries, and Draco",
+            "Y": "Cancer, Gemini, and Cassiopeia",
+            "Z": "Taurus, Ursa Minor, and Pisces"
+        },
+        "Answer": "W"
+    },
+    {
+        "Number": 7,
+        "Subject": "ASTRONOMY",
+        "Type": "Multiple Choice",
+        "Question": "Which of the following will MOST likely occur if the Earth crosses the orbit of a comet:",
+        "Options": {
+            "W": "a meteor shower could be seen from Earth",
+            "X": "an asteroid will likely strike the Earth",
+            "Y": "red sprites and bolides will be seen both day and night",
+            "Z": "the Earth would temporarily lose its Van Allen belts"
+        },
+        "Answer": "W"
+    },
+    {
+        "Number": 14,
+        "Subject": "ASTRONOMY",
+        "Type": "Multiple Choice",
+        "Question": "Which of the following BEST describes the location of the heliosphere:",
+        "Options": {
+            "W": "the region that extends a few thousand kilometers outside of the Sun\u00d5s corona",
+            "X": "the region that extends from the Sun\u00d5s corona to the end of the solar system",
+            "Y": "the region that extends from the Sun\u00d5s core to the end of the solar system",
+            "Z": "the region of the expanding solar wind between the sun and the heliopause"
+        },
+        "Answer": "Z"
+    },
+    {
+        "Number": 14,
+        "Subject": "ASTRONOMY",
+        "Type": "Multiple Choice",
+        "Question": "Which of the following BEST describes the position of the first quarter Moon to an observer in northern mid-latitudes on a clear summer night just after sunset:",
+        "Options": {
+            "W": "rising in the east",
+            "X": "setting in the west",
+            "Y": "high in the south",
+            "Z": "unable to be seen"
+        },
+        "Answer": "Y"
+    },
+    {
+        "Number": 21,
+        "Subject": "ASTRONOMY",
+        "Type": "Short Answer",
+        "Question": "At how many parsecs is a star\u00d5s absolute magnitude the same as its apparent magnitude?",
+        "Answer": "10"
+    },
+    {
+        "Number": 21,
+        "Subject": "ASTRONOMY",
+        "Type": "Short Answer",
+        "Question": "A photon of only a certain wavelength is able to be absorbed only by an electron at a specific energy level of an atom.  This is the basis of what commonly used astronomical technique?",
+        "Answer": "SPECTROSCOPY"
+    },
+    {
+        "Number": 7,
+        "Subject": "ASTRONOMY",
+        "Type": "Multiple Choice",
+        "Question": "Which of the following is the MAIN advantage of space-based telescopes over typical ground-based telescopes:",
+        "Options": {
+            "W": "they are not affected by radiation",
+            "X": "their mirrors can be any size because of zero gravity",
+            "Y": "they are cheaper to maintain",
+            "Z": "they experience no atmospheric distortion"
+        },
+        "Answer": "Z"
+    },
+    {
+        "Number": 7,
+        "Subject": "ASTRONOMY",
+        "Type": "Multiple Choice",
+        "Question": "Which of the following is the BEST evidence that globular clusters are composed of mostly old stars:",
+        "Options": {
+            "W": "most of their stars have a low metal content",
+            "X": "most of their stars are population one stars",
+            "Y": "most of the stars have a very high mass",
+            "Z": "most of their stars are white dwarfs"
+        },
+        "Answer": "W"
+    },
+    {
+        "Number": 14,
+        "Subject": "ASTRONOMY",
+        "Type": "Multiple Choice",
+        "Question": "The Schmidt telescope would BEST be considered:",
+        "Options": {
+            "W": "an advanced adaptive optics telescope with x-ray detection capabilities",
+            "X": "a wide field telescope",
+            "Y": "a radio telescope",
+            "Z": "an orbital x-ray telescope"
+        },
+        "Answer": "X"
+    },
+    {
+        "Number": 14,
+        "Subject": "ASTRONOMY",
+        "Type": "Multiple Choice",
+        "Question": "Which of the following is NOT true:",
+        "Options": {
+            "W": "the planet Venus has a high albedo",
+            "X": "a gnomon is a very simple astronomical instrument",
+            "Y": "the Moon is found at over 10 degrees north of the ecliptic in a lunar standstill year",
+            "Z": "carbon is probably the fourth most common element in the universe"
+        },
+        "Answer": "Y"
+    },
+    {
+        "Number": 21,
+        "Subject": "ASTRONOMY",
+        "Type": "Short Answer",
+        "Question": "Which one of the following 4 planets has the smallest orbital eccentricity:  Mercury;  Jupiter;  Venus;  Saturn",
+        "Answer": "VENUS"
+    },
+    {
+        "Number": 21,
+        "Subject": "ASTRONOMY",
+        "Type": "Short Answer",
+        "Question": "Arrange the following 3 objects from LEAST to MOST in their maximum apparent brightness:  Sirius;  Mars;  Jupiter",
+        "Answer": "SIRIUS;  JUPITER;  MARS"
+    },
+    {
+        "Number": 7,
+        "Subject": "ASTRONOMY",
+        "Type": "Multiple Choice",
+        "Question": "Which of the following was the primary instrument used to gather 5 to 35 micrometer spectra data from the Deep Impact mission:",
+        "Options": {
+            "W": "Chandra X-ray observatory",
+            "X": "Arecibo radio telescope",
+            "Y": "Hubble gamma-ray telescope",
+            "Z": "Spitzer infrared spectrograph"
+        },
+        "Answer": "Z"
+    },
+    {
+        "Number": 7,
+        "Subject": "ASTRONOMY",
+        "Type": "Multiple choice",
+        "Question": "By what multiple does the brightness of two stars differ with apparent magnitudes of \u00d03 and +4:   W)  2.5 X)  25   Y)  250 Z)  625",
+        "Answer": "Z)  625"
+    },
+    {
+        "Number": 14,
+        "Subject": "ASTRONOMY",
+        "Type": "Multiple Choice",
+        "Question": "Which of the following is LEAST accurate:",
+        "Options": {
+            "W": "recent evidence suggests a subsurface salty ocean is present on the Moon Europa",
+            "X": "spiral galaxies are actively forming stars",
+            "Y": "Earth\u00d5s aphelion occurs on the summer solstice",
+            "Z": "Julian days are often used as the time reference on light curves of stars"
+        },
+        "Answer": "Y"
+    },
+    {
+        "Number": 14,
+        "Subject": "ASTRONOMY",
+        "Type": "Multiple Choice",
+        "Question": "What would happen in the mid-northern latitudes if the tilt of the Earth\u00d5s axis decreased by 15 degrees:",
+        "Options": {
+            "W": "warmer summers and warmer winters",
+            "X": "cooler summers and cooler winters",
+            "Y": "cooler summers and warmer winters",
+            "Z": "colder summers and colder winters"
+        },
+        "Answer": "Y"
+    },
+    {
+        "Number": 21,
+        "Subject": "ASTRONOMY",
+        "Type": "Short Answer",
+        "Question": "A stargazer looks at Orion and sees a reddish star called Betelgeuse.  The redness is because the star is what type of star?",
+        "Answer": "A RED GIANT"
+    },
+    {
+        "Number": 21,
+        "Subject": "ASTRONOMY",
+        "Type": "Short Answer",
+        "Question": "What is the MOST common name for the celestial objects that are called stars but since they are low mass objects of less than 0.08 solar masses they cannot undergo fusion?",
+        "Answer": "BROWN DWARFS"
+    },
+    {
+        "Number": 7,
+        "Subject": "ASTRONOMY",
+        "Type": "Multiple Choice",
+        "Question": "Which of the following is LEAST accurate:",
+        "Options": {
+            "W": "most stars visible to the unaided eye are part of the Milky Way galaxy",
+            "X": "there are 88 constellations officially recognized by the IAU",
+            "Y": "a red supergiant has a hotter surface than our Sun",
+            "Z": "the constellation Leo is located within 9\u00ba of the ecliptic"
+        },
+        "Answer": "Y"
+    },
+    {
+        "Number": 7,
+        "Subject": "ASTRONOMY",
+        "Type": "Multiple Choice",
+        "Question": "Which of the following is NOT true:",
+        "Options": {
+            "W": "the core of a red supergiant is hotter than the core of a main sequence K-type star",
+            "X": "helium flash is something that occurs in red giant stars",
+            "Y": "the Pleiades is an open star cluster",
+            "Z": "there is more lithium than carbon in the universe"
+        },
+        "Answer": "Z"
+    },
+    {
+        "Number": 14,
+        "Subject": "ASTRONOMY",
+        "Type": "Multiple Choice",
+        "Question": "Which of the following is LEAST likely to occur for a stargazer observing from mid-northern latitudes during summer months:",
+        "Options": {
+            "W": "the planet Venus passing within a few degrees of the Moon a few hours after sunset",
+            "X": "the Moon at perigee",
+            "Y": "the planet Saturn passing with 5 degrees of the Moon",
+            "Z": "the planet Mercury within 10 degrees of the zenith"
+        },
+        "Answer": "Z"
+    },
+    {
+        "Number": 14,
+        "Subject": "ASTRONOMY",
+        "Type": "Short Answer",
+        "Question": "Through how many degrees does the Earth rotate in 8 hours?",
+        "Answer": "120"
+    },
+    {
+        "Number": 21,
+        "Subject": "ASTRONOMY",
+        "Type": "Short Answer",
+        "Question": "As seen from the Earth, what planet has the smallest maximum eastern elongation?",
+        "Answer": "MERCURY"
+    },
+    {
+        "Number": 21,
+        "Subject": "ASTRONOMY",
+        "Type": "Short Answer",
+        "Question": "Choosing from noon, sunset, midnight or sunrise, at what time of the day does a new Moon rise for an observer at mid-northern latitudes in September?",
+        "Answer": "SUNRISE"
+    },
+    {
+        "Number": 7,
+        "Subject": "ASTRONOMY",
+        "Type": "Multiple Choice",
+        "Question": "Which of the following would astronomers most likely consider emission nebula:",
+        "Options": {
+            "W": "Population III (read as: 3) regions",
+            "X": "Population II (read as: 2) regions",
+            "Y": "glowing H II (read as: H, 2) regions",
+            "Z": "active regions"
+        },
+        "Answer": "Y"
+    },
+    {
+        "Number": 7,
+        "Subject": "ASTRONOMY",
+        "Type": "Multiple Choice",
+        "Question": "In which of the following locations would there typically be more Population Two stars than Population One stars:",
+        "Options": {
+            "W": "in globular clusters",
+            "X": "in spiral arms of galaxies",
+            "Y": "in planetary nebula",
+            "Z": "in regions actively forming stars"
+        },
+        "Answer": "W"
+    },
+    {
+        "Number": 14,
+        "Subject": "ASTRONOMY",
+        "Type": "Short Answer",
+        "Question": "What element makes up the innermost core of a type II (read as: type 2) supernova just before core collapse?",
+        "Answer": "IRON"
+    },
+    {
+        "Number": 14,
+        "Subject": "ASTRONOMY",
+        "Type": "Short Answer",
+        "Question": "What is the magnification of a telescope with an objective lens that has a focal length of 250 centimeters and an eyepiece with a focal length of 0.50 centimeters?",
+        "Answer": "500X"
+    },
+    {
+        "Number": 21,
+        "Subject": "ASTRONOMY",
+        "Type": "Short Answer",
+        "Question": "From the LEAST to the MOST, what are the 3 most abundant elements in a G-type star?",
+        "Answer": "HYDROGEN;  HELIUM;  CARBON"
+    },
+    {
+        "Number": 21,
+        "Subject": "ASTRONOMY",
+        "Type": "Short Answer",
+        "Question": "If a supernova with an apparent magnitude of \u01522.0 was observed for the first time in the year 2,000 at 35.00 kiloparsecs from Earth, how many years before observation, rounded to the nearest whole number, did the supernova most likely occur?",
+        "Answer": "114"
+    },
+    {
+        "Number": 7,
+        "Subject": "ASTRONOMY",
+        "Type": "Short Answer",
+        "Question": "What planet of our solar system has the most nitrogen-rich atmosphere?",
+        "Answer": "EARTH"
+    },
+    {
+        "Number": 7,
+        "Subject": "ASTRONOMY",
+        "Type": "Multiple Choice",
+        "Question": "Most of the galaxies in the universe are classified as which of the following:",
+        "Options": {
+            "W": "spiral",
+            "X": "elliptical",
+            "Y": "irregular",
+            "Z": "dwarf"
+        },
+        "Answer": "Z"
+    },
+    {
+        "Number": 14,
+        "Subject": "ASTRONOMY",
+        "Type": "Multiple Choice",
+        "Question": "Which of the following is the primary characteristic of the Jovian planets:",
+        "Options": {
+            "W": "high axial spin rates",
+            "X": "low mean density",
+            "Y": "retrograde orbits",
+            "Z": "prominent layer of liquid-metallic hydrogen"
+        },
+        "Answer": "X"
+    },
+    {
+        "Number": 14,
+        "Subject": "ASTRONOMY",
+        "Type": "Short Answer",
+        "Question": "Which one of the Gas Giant planets emits the LEAST amount of energy?",
+        "Answer": "URANUS"
+    },
+    {
+        "Number": 21,
+        "Subject": "ASTRONOMY",
+        "Type": "Multiple Choice",
+        "Question": "From mid-northern latitudes, during which of the following  months would the constellation Orion be most prominent in the southern sky at about 10 PM:",
+        "Options": {
+            "W": "April",
+            "X": "July",
+            "Y": "August",
+            "Z": "December"
+        },
+        "Answer": "Z"
+    },
+    {
+        "Number": 21,
+        "Subject": "ASTRONOMY",
+        "Type": "Short Answer",
+        "Question": "What is the most common term for the apparent dividing line between night and day on the Moon?",
+        "Answer": "TERMINATOR"
+    },
+    {
+        "Number": 7,
+        "Subject": "ASTRONOMY",
+        "Type": "Multiple Choice",
+        "Question": "Which of the following best explains from where most of the dust that covers the surface of the Moon came:",
+        "Options": {
+            "W": "weathering when the Moon was young and had an atmosphere",
+            "X": "interstellar dust deposited over billions of years",
+            "Y": "from rock pulverized from many impacts",
+            "Z": "from its original makeup of a soft, silicate rock"
+        },
+        "Answer": "Y"
+    },
+    {
+        "Number": 7,
+        "Subject": "ASTRONOMY",
+        "Type": "Short Answer",
+        "Question": "What physical property of stars is most directly responsible for how long they will continue fusion?",
+        "Answer": "MASS"
+    },
+    {
+        "Number": 14,
+        "Subject": "ASTRONOMY",
+        "Type": "Multiple Choice",
+        "Question": "If a star is seen just above the eastern horizon at sunset, where would it most likely be found just before the following sunrise:",
+        "Options": {
+            "W": "just above the eastern horizon",
+            "X": "half-way up in the eastern sky",
+            "Y": "low in the western sky",
+            "Z": "directly overhead"
+        },
+        "Answer": "Y"
+    },
+    {
+        "Number": 14,
+        "Subject": "ASTRONOMY",
+        "Type": "Short Answer",
+        "Question": "What is the MOST common organic molecule in the atmosphere of the planet Uranus?",
+        "Answer": "METHANE"
+    },
+    {
+        "Number": 21,
+        "Subject": "ASTRONOMY",
+        "Type": "Short Answer",
+        "Question": "To the first decimal place, how many astronomical units is the average radius of the Earth\u2122s orbit around the Sun?",
+        "Answer": "1.0"
+    },
+    {
+        "Number": 21,
+        "Subject": "ASTRONOMY",
+        "Type": "Short Answer",
+        "Question": "How many degrees above the celestial equator is the north celestial pole?",
+        "Answer": "90"
+    },
+    {
+        "Number": 7,
+        "Subject": "ASTRONOMY",
+        "Type": "Multiple Choice",
+        "Question": "The BEST explanation of why population I (read as: one) stars have a higher proportion of elements heavier than helium than population II ( read as: two) stars, is because Population I stars are:",
+        "Options": {
+            "W": "younger than population II stars",
+            "X": "older than population II stars",
+            "Y": "usually closer to planetary nebula than population II stars",
+            "Z": "often found near H-I (read as: H, one) regions"
+        },
+        "Answer": "W"
+    },
+    {
+        "Number": 7,
+        "Subject": "ASTRONOMY",
+        "Type": "Short Answer",
+        "Question": "How many sidereal minutes are in 7.5 sidereal hours?",
+        "Answer": "450"
+    },
+    {
+        "Number": 14,
+        "Subject": "ASTRONOMY",
+        "Type": "Multiple Choice",
+        "Question": "Which of the following is closest to the range for the Balmer series:",
+        "Options": {
+            "W": "microwave",
+            "X": "infrared through UV",
+            "Y": "UV to soft x-ray",
+            "Z": "visible light to UV"
+        },
+        "Answer": "Z"
+    },
+    {
+        "Number": 14,
+        "Subject": "ASTRONOMY",
+        "Type": "Short Answer",
+        "Question": "Choosing from upper right, lower right, lower left, and upper left, in what area of the Hertzsprung Russell diagram will the Sun end its life?",
+        "Answer": "LOWER LEFT"
+    },
+    {
+        "Number": 21,
+        "Subject": "ASTRONOMY",
+        "Type": "Short Answer",
+        "Question": "Giving your answer in decimal form, what would the \ufb01Z\ufb02 value be if a distant celestial object were shifted towards longer wavelengths by 40% of the original wavelength?",
+        "Answer": "0.4"
+    },
+    {
+        "Number": 21,
+        "Subject": "ASTRONOMY",
+        "Type": "Short Answer",
+        "Question": "If a planet had an orbital period of 11.2 years, what is the length of its orbital semi-major axis, in astronomical units rounded to the nearest whole number?",
+        "Answer": "5"
+    },
+    {
+        "Number": 7,
+        "Subject": "ASTRONOMY",
+        "Type": "Multiple Choice",
+        "Question": "Which of the following is NOT true:",
+        "Options": {
+            "W": "the star Sirius at its brightest has an apparent magnitude of about negative 1.5",
+            "X": "metal-rich stars sometimes have planets",
+            "Y": "typical binoculars allow observation of stars with apparent magnitudes of about 9.0",
+            "Z": "the Sun has an apparent magnitude of about negative 12"
+        },
+        "Answer": "Z"
+    },
+    {
+        "Number": 7,
+        "Subject": "ASTRONOMY",
+        "Type": "Multiple Choice",
+        "Question": "Astronomers will often refer to certain stars as low metal content stars.  In this sense astronomers consider metals as any element:",
+        "Options": {
+            "W": "heavier than helium",
+            "X": "heavier than carbon",
+            "Y": "heavier than copper",
+            "Z": "heavier than iron"
+        },
+        "Answer": "W"
+    },
+    {
+        "Number": 14,
+        "Subject": "ASTRONOMY",
+        "Type": "Short Answer",
+        "Question": "As a comet approaches the Sun, most of its icy substances are released during what phase change process?",
+        "Answer": "SUBLIMATION"
+    },
+    {
+        "Number": 14,
+        "Subject": "ASTRONOMY",
+        "Type": "Multiple Choice",
+        "Question": "During which of the following orbital arrangements can a transit occur for the planet Venus:",
+        "Options": {
+            "W": "opposition",
+            "X": "greatest eastern elongation",
+            "Y": "superior conjunction",
+            "Z": "inferior conjunction"
+        },
+        "Answer": "Z"
+    },
+    {
+        "Number": 21,
+        "Subject": "ASTRONOMY",
+        "Type": "Short Answer",
+        "Question": "Which 2 of the following 4 factors most directly determine the apparent visual magnitude of a star: distance from Earth;  intrinsic brightness;  color;  age",
+        "Answer": "DISTANCE FROM EARTH;  INTRINSIC BRIGHTNESS"
+    },
+    {
+        "Number": 21,
+        "Subject": "ASTRONOMY",
+        "Type": "Short Answer",
+        "Question": "What 2 characteristics of Uranus are most commonly noted as the reasons why Uranus was not discovered until the late 1700\u2122s?",
+        "Answer": "APPARENT MAGNITUDE;  ORBITAL PERIOD"
+    }
+]
